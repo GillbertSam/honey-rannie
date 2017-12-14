@@ -1,0 +1,19 @@
+{
+  "name": "honey-rannie",
+  "version": "1.0.0",
+  "description": "@author GillbertSam",
+  "main": "./index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GillbertSam/honey-rannie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GillbertSam/honey-rannie/issues"
+  },
+  "homepage": "https://github.com/GillbertSam/honey-rannie#readme"
+}
